@@ -1,0 +1,47 @@
+R version 4.0.3 (2020-10-10)
+Platform: x86_64-w64-mingw32/x64 (64-bit)
+Running under: Windows 10 x64 (build 19043)
+
+Matrix products: default
+
+locale:
+[1] LC_COLLATE=English_United Kingdom.1252 
+[2] LC_CTYPE=English_United Kingdom.1252   
+[3] LC_MONETARY=English_United Kingdom.1252
+[4] LC_NUMERIC=C                           
+[5] LC_TIME=English_United Kingdom.1252    
+
+attached base packages:
+[1] stats     graphics  grDevices utils     datasets  methods   base     
+
+other attached packages:
+ [1] rmarkdown_2.11  forcats_0.5.1   stringr_1.4.0   dplyr_1.0.7    
+ [5] purrr_0.3.4     readr_1.4.0     tidyr_1.1.4     tibble_3.0.4   
+ [9] ggplot2_3.3.5   tidyverse_1.3.1 dismo_1.3-5     raster_3.5-15  
+[13] jsonlite_1.7.3  geodata_0.3-5   terra_1.5-21    sf_1.0-6       
+[17] rworldmap_1.3-6 sp_1.4-6       
+
+loaded via a namespace (and not attached):
+ [1] viridis_0.5.1      httr_1.4.2         maps_3.4.0        
+ [4] viridisLite_0.3.0  dotCall64_1.0-1    modelr_0.1.8      
+ [7] assertthat_0.2.1   cellranger_1.1.0   yaml_2.2.1        
+[10] pillar_1.6.4       backports_1.1.10   lattice_0.20-41   
+[13] glue_1.4.2         digest_0.6.25      rvest_1.0.2       
+[16] colorspace_1.4-1   htmltools_0.5.0    pkgconfig_2.0.3   
+[19] broom_0.7.10       haven_2.3.1        scales_1.1.1      
+[22] proxy_0.4-26       farver_2.0.3       generics_0.0.2    
+[25] ellipsis_0.3.2     withr_2.4.2        cli_3.1.0         
+[28] magrittr_2.0.1     crayon_1.4.2       readxl_1.3.1      
+[31] maptools_1.1-2     evaluate_0.14      fs_1.5.0          
+[34] fansi_0.4.1        xml2_1.3.2         foreign_0.8-80    
+[37] class_7.3-17       tools_4.0.3        hms_1.1.1         
+[40] lifecycle_1.0.1    munsell_0.5.0      reprex_2.0.1      
+[43] compiler_4.0.3     e1071_1.7-9        rlang_0.4.12      
+[46] classInt_0.4-3     units_0.8-0        grid_4.0.3        
+[49] rstudioapi_0.13    spam_2.8-0         labeling_0.4.2    
+[52] gtable_0.3.0       codetools_0.2-16   DBI_1.1.0         
+[55] R6_2.4.1           gridExtra_2.3      lubridate_1.8.0   
+[58] knitr_1.30         rgdal_1.5-28       utf8_1.1.4        
+[61] KernSmooth_2.23-17 stringi_1.5.3      Rcpp_1.0.7        
+[64] fields_13.3        vctrs_0.3.8        dbplyr_2.1.1      
+[67] tidyselect_1.1.0   xfun_0.28         
